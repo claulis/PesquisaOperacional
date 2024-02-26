@@ -40,7 +40,7 @@ Alguns exemplos de tomada de decisão nas empresas são:
 
 A história da tomada de decisão é a história de como o homem buscou formas de lidar com a incerteza e o risco, desde os tempos antigos até os dias atuais. A tomada de decisão envolve escolher entre várias alternativas com base em informações e objetivos. Ao longo da história, o homem usou diferentes ferramentas e métodos para tomar decisões, como a interpretação de sinais divinos, a matemática, a filosofia, a psicologia, a economia e a ciência política. A tomada de decisão também evoluiu com o avanço da tecnologia, que permitiu ao homem acessar mais dados, testar cenários, simular processos e interagir com outros decisores. A tomada de decisão, porém, não é um processo puramente racional, pois também é influenciada por fatores emocionais, sociais e éticos. Para saber mais sobre as teorias à base da tomada de decisão sugiro de ler este artigo da Harvard Business Review de 2006
 
-Aqui está o link ::point_down:
+Aqui está o link 👇
 
 >UMA BREVE HISTÓRIA DA TOMADA DE DECISÃO https://docplayer.com.br/2293468-Uma-breve-historia-da-tomada-de-decisao.html.
 
