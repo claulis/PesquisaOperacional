@@ -48,7 +48,7 @@ Aqui está o link 👇
 
 A tomada de decisão nas empresas é um processo complexo e desafiador, que envolve escolher entre diferentes alternativas com base em informações e objetivos. Alguns dos principais desafios da tomada de decisão nas empresas são:
 
-> Lidar com a incerteza e o risco: muitas vezes, as decisões envolvem situações que não podem ser previstas ou controladas, como mudanças no mercado, na concorrência, na tecnologia, na legislação, etc. Isso exige que os decisores analisem as probabilidades e as consequências das suas escolhas, bem como os cenários possíveis e os planos de contingência.
+> **Lidar com a incerteza e o risco:** muitas vezes, as decisões envolvem situações que não podem ser previstas ou controladas, como mudanças no mercado, na concorrência, na tecnologia, na legislação, etc. Isso exige que os decisores analisem as probabilidades e as consequências das suas escolhas, bem como os cenários possíveis e os planos de contingência.
 
 > **Integrar dados e informações:** para tomar decisões informadas, os decisores precisam coletar, organizar, interpretar e visualizar dados e informações de várias fontes, internas e externas, qualitativas e quantitativas. Isso exige que os decisores usem ferramentas de business intelligence, como o Power BI¹, para transformar dados em insights e facilitar a tomada de decisão.
 
@@ -76,7 +76,7 @@ Os modelos de tomada de decisão podem influenciar significativamente a forma co
 
 >7. **Abordagem Incremental**: Esta abordagem questiona os pressupostos da visão racional de decisão e propõe um método mais prático e sintonizado com o cotidiano do tomador de decisão. Ela busca reduzir a complexidade da realidade envolvida no processo decisório
 
-Para aprofundar mais sobre esses modelos ::point_down:
+Para aprofundar mais sobre esses modelos 👇
 > - Modelos de tomada de decisão e sua relação com a informação orgânica - https://www.scielo.br/j/pci/a/t8XnmBCGfRGYpm9YQh4CKFh/?lang=pt
 > - TOMADA DE DECISÃO, DO MODELO RACIONAL AO COMPORTAMENTAL: UMA 
 SÍNTESE TEÓRICA  - https://d1wqtxts1xzle7.cloudfront.net/11512163/GONTIJO_MAIA_2004-libre.pdf?1390894009=&response-content-disposition=inline%3B+filename%3DGONTIJO_MAIA_2004.pdf&Expires=1708365084&Signature=fswShEcxmA9xJkgAvaFoAn7UGMErBnp7crqk8vYsX2fRPUVeo~hhRMHWsKGIOM-qycC14qWd9Wh4i-DdnbkaKPWmMBHL9-OA1uy-3bfdMw8Mq7ouoI35nLBICkqvYBROwjQmSaz8Lfn0VGB8yXLEc6h8F37ihu8zRAI5CmLXi3oddiVDJgyXcEgFRBXQ0euXuEj~pAnyfiBqbWUbJEMA5QVFBGjjMqA0cUkEy-wbo6k0b4TkV-fGhRhLIJ9hZATsJ9FeoMtIewjBNKq-he78Od~mvvyoWFOzuyV26oIPk4JTDMY4DwtCd6Mf4Jt9todSmDGDrz10cpkn0SWji0O3Gg__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA
