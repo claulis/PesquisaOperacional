@@ -125,17 +125,29 @@ Existem várias técnicas de tomada de decisão que podem ser aplicadas para aju
 
 1. **Análise SWOT**: Esta técnica envolve a análise dos pontos fortes (Strengths), pontos fracos (Weaknesses), oportunidades (Opportunities) e ameaças (Threats) de uma situação, permitindo uma avaliação abrangente do ambiente interno e externo de uma organização ou problema.
 
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/SWOT_en.svg/440px-SWOT_en.svg.png)
+
 2. **Matriz de Decisão**: Também conhecida como matriz de priorização, essa técnica envolve a criação de uma tabela onde as alternativas são listadas em linhas e os critérios de decisão são listados em colunas. Os pesos são atribuídos a cada critério e as alternativas são pontuadas de acordo com esses critérios, ajudando a visualizar e comparar as opções.
 
+![](https://upload.wikimedia.org/wikipedia/commons/3/32/MerrillCoveyMatrix.png)
+
 3. **Árvore de Decisão**: É uma representação gráfica que ajuda a visualizar as possíveis alternativas de decisão e os resultados associados a cada uma delas. As árvores de decisão podem ser usadas para modelar decisões sequenciais e identificar a melhor estratégia a ser seguida.
+
+![](https://upload.wikimedia.org/wikipedia/commons/1/10/Arvoredecisao.JPG)
 
 4. **Análise de Custo-Benefício**: Essa técnica envolve a avaliação dos custos e benefícios de cada alternativa de decisão, permitindo que os tomadores de decisão comparem as opções e escolham aquela que maximiza o retorno sobre o investimento.
 
 5. **Brainstorming**: Uma técnica de geração de ideias que envolve a reunião de um grupo de pessoas para gerar o máximo possível de alternativas e soluções para um problema específico, sem julgamento inicial.
 
+![](https://javiersaneugenio.es/wp-content/uploads/2015/08/brainstorming.jpg)
+
 6. **Análise de Cenários**: Essa técnica envolve a criação de diferentes cenários possíveis para o futuro, considerando diferentes variáveis e condições, e avaliando como cada cenário afetaria as decisões a serem tomadas no presente.
 
+![](https://medtechnique.com.au/wp-content/uploads/2019/06/Feasibility_sml-768x555.jpg)
+
 7. **Método Delphi**: Envolve a solicitação de opiniões e previsões de um grupo de especialistas, que são então sintetizadas e iteradas em várias rodadas até que um consenso seja alcançado.
+
+![](https://upload.wikimedia.org/wikipedia/commons/3/35/DELPHIST.png)
 
 8. **Avaliação Multicritério**: Essa técnica permite a avaliação de alternativas com base em múltiplos critérios e pesos atribuídos a cada critério, ajudando a identificar a melhor opção de acordo com as preferências e prioridades dos tomadores de decisão.
 
